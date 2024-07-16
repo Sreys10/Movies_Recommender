@@ -1,4 +1,4 @@
-# Movie Recommender System
+# Movies Recommender System
 
 ## Overview
 
@@ -41,4 +41,12 @@ Once the application is running, open your web browser and navigate to the local
 ## 2. Get Recommendations:
 Enter your favorite movie or a list of movies you like, and the system will provide you with a list of recommended movies based on your input.
 
+# Model Training
+The recommendation model is trained using vectorization techniques to analyze and understand movie features and user preferences. The trained model is then saved using Pickle for easy deployment.
 
+
+# Contributing
+We welcome contributions to improve the Movie Recommender System! If you have any suggestions or enhancements, feel free to open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
