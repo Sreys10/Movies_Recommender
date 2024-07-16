@@ -1,4 +1,4 @@
-##Movie Recommender System
+# Movie Recommender System
 Overview
 Welcome to the Movie Recommender System! This project aims to provide personalized movie recommendations to users based on their preferences. The system uses a pre-trained model for recommending movies, deployed with Streamlit for an interactive user interface.
 
