@@ -25,3 +25,20 @@ To get started with the Movie Recommender System, follow these steps:
    ```bash
    git clone https://github.com/yourusername/movies-recommender-system.git
    cd movies-recommender-system
+
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Application**:
+   ```bash
+   streamlit run app.py
+
+  # Usage
+## 1. Open the Application:
+Once the application is running, open your web browser and navigate to the local server address provided by Streamlit (typically http://localhost:8501).
+
+## 2. Get Recommendations:
+Enter your favorite movie or a list of movies you like, and the system will provide you with a list of recommended movies based on your input.
+
+
